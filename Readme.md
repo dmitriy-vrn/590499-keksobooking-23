@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 - Студент: [Дмитрий Воронин](https://up.htmlacademy.ru/javascript/23/user/590499).
-- Наставник: `Игорь Агапов` (https://htmlacademy.ru/profile/id1034633).
+- Наставник: [Игорь Агапов](https://htmlacademy.ru/profile/id1034633).
 
 ---
 
